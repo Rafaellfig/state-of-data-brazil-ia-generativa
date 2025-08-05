@@ -34,4 +34,4 @@ Os dados utilizados são públicos e foram disponibilizados pela [Data Hackers](
 
 ## ✍️ Autor
 
-**Rafael Lima**  
+**Rafael Figueiredo**  
